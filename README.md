@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 ![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennc05&show_icons=true&theme=transparent)
 
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=kennc05)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kennc05)](https://git.io/streak-stats)
+-->
