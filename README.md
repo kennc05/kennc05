@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 
-![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennc05&show_icons=true)
+![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennc05&show_icons=true&theme=transparent)
