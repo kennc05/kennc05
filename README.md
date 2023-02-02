@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, nice to meet you! 👋
 
 <!--
 **kennc05/kennc05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on getting into Backend Engineering
+- 🌱 I’m currently learning Go
+- 📫 How to reach me: @kennc05 on all platforms
+- 😄 Pronouns: He/Him
+
+
+![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennc05&show_icons=true)
