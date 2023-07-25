@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on getting into Backend Engineering
+- 🔭 I’m currently working on getting into Software Engineering somewhere
 - 🌱 I’m currently learning Go
-- 📫 How to reach me: @kennc05 on all platforms
+- 📫 How to reach me: @kennc05 on most platforms
 - 😄 Pronouns: He/Him
 
 
