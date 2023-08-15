@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on getting into Software Engineering somewhere
-- 🌱 I’m currently learning Go
+- 🔭 I’m currently working on building my developer skills at Platform in tombola 
+- 🌱 I’m currently learning .Net 
 - 📫 How to reach me: @kennc05 on most platforms
 - 😄 Pronouns: He/Him
 
