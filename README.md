@@ -1,5 +1,3 @@
-### Hi there, nice to meet you! 👋
-
 <!--
 **kennc05/kennc05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1>
+  Hey there, nice to meet you!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+---
+
+### ℹ️: Quick overview:
 
 - 🔭 I’m currently working on building my developer skills at Platform in tombola 
 - 🌱 I’m currently learning .Net 
@@ -23,7 +29,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -40,7 +46,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :information_source: Github stats :
+### :fire: My stats:
 
 
 ![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennc05&show_icons=true&theme=transparent)
