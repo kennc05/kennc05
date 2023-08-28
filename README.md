@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ---
 
-### ℹ️: Quick overview:
+### ℹ️ A quick overview:
 
 - 🔭 I’m currently working on building my developer skills at Platform in tombola 
 - 🌱 I’m currently learning .Net 
