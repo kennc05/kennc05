@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kennc05)](https://git.io/streak-stats)
 -->
+
+<img src="https://komarev.com/ghpvc/?username=kennc05&style=flat-square&color=blue" alt=""/>
