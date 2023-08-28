@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 ### ℹ️ A quick overview:
 
-- 🔭 I’m currently working on building my developer skills at Platform in tombola 
-- 🌱 I’m currently learning .Net 
+- 🔭 I’m currently working on growing my software development skills at tombola within the Platform team
+- 🌱 I’m currently learning .net using Visual Studio
 - 📫 How to reach me: @kennc05 on most platforms
 - 😄 Pronouns: He/Him
 
