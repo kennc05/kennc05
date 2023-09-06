@@ -46,18 +46,14 @@ Here are some ideas to get you started:
 
 ---
 
-### :fire: My stats:
-
+### :fire: Some stats:
 
 ![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennc05&show_icons=true&theme=transparent)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kennc05)](https://git.io/streak-stats)
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=kennc05)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kennc05)](https://git.io/streak-stats)
--->
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennc05&layout=compact&&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 <img src="https://komarev.com/ghpvc/?username=kennc05&style=flat-square&color=blue" alt=""/>
