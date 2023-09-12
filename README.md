@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ### :fire: Some stats:
 
 ![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennc05&show_icons=true&theme=transparent)
-[![Kenneth's GitHub Streak](https://streak-stats.demolab.com?user=kennc05&border_radius=4.4&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![Kenneth's GitHub Streak](https://streak-stats.demolab.com/?user=kennc05&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=kennc05)](https://github.com/ryo-ma/github-profile-trophy)
