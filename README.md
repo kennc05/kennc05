@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 ### ℹ️ A quick overview:
 
-- 🔭 I’m currently working on: Building my software development skills and knowledge at tombola within the Platform team
-- 🌱 I’m currently learning: C# and the .NET framework using Visual Studio and going through the Microsoft C# certification
+- 🔭 I’m currently working on: Mainly frontend rebranding work
+- 🌱 I’m currently learning: AWS things
 - 📫 How to reach me: @kennc05 on most platforms
 - 😄 Pronouns: He/Him
 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ### :fire: Some stats:
 
-![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennc05&show_icons=true&theme=transparent)
+<!-- ![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennc05&show_icons=true&theme=transparent) -->
 [![Kenneth's GitHub Streak](https://streak-stats.demolab.com/?user=kennc05&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <!--
